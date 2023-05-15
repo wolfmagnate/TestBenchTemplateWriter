@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestBenchTemplateWriter": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\wolfm\\Documents\\CAD\\SIMPLE\\SIMPLE_OoO\\simulation\\modelsim C:\\Users\\wolfm\\Documents\\CAD\\SIMPLE\\SIMPLE_OoO\\TOPLEVEL C:\\Users\\wolfm\\Documents\\CAD\\SIMPLE\\SIMPLE_OoO\\WB C:\\Users\\wolfm\\Documents\\CAD\\SIMPLE\\SIMPLE_OoO\\SCOREBOARD C:\\Users\\wolfm\\Documents\\CAD\\SIMPLE\\SIMPLE_OoO\\EX_R C:\\Users\\wolfm\\Documents\\CAD\\SIMPLE\\SIMPLE_OoO\\EX_MEM C:\\Users\\wolfm\\Documents\\CAD\\SIMPLE\\SIMPLE_OoO\\EX_LI C:\\Users\\wolfm\\Documents\\CAD\\SIMPLE\\SIMPLE_OoO\\EX_BR C:\\Users\\wolfm\\Documents\\CAD\\SIMPLE\\SIMPLE_OoO\\ID"
+    }
+  }
+}
