@@ -52,4 +52,5 @@ module sampleModule_test();
     always begin
 		// TODO
 	end
+endmodule
 ```
